@@ -7,4 +7,4 @@ A Java application for Human Activity Recognition – Health Authority.
 
 •	Backend is MySql.
 
-•	Functionalities such as Emergency Services for patients(critical fall) , Instant Email services to Relatives, Health Data analysis and Health Data report sending.
+•	Functionalities such as Emergency Services for patients(critical fall) , Instant Email services to Relatives, Health Data analysis and Health Data Report sending.
