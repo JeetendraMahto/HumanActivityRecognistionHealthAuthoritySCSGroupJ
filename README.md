@@ -5,6 +5,6 @@ A Java application for Human Activity Recognition – Health Authority.
 
 •	Admin Panel - functionality with password protected login and management.
 
-•	MySql is used as Backened.
+•	MySql is used as Backend.
 
 •	Functionalities such as Emergency Services for patients(critical fall) , Instant Email services to Relatives, Health Data analysis and Health Data Report sending.
