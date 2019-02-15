@@ -3,7 +3,7 @@ Human Activity Recognition – Health Authority
 
 A Java application for Human Activity Recognition – Health Authority.
 
-•	Admin Panel with password protected login and management.
+•	Admin Panel - functionality with password protected login and management.
 
 •	Backend is MySql.
 
